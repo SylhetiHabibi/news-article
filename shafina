@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Jugabheri - News Article</title>
+  <style>
+    body {
+      font-family: 'Georgia', serif;
+      background-color: #fdf6e3;
+      color: #111;
+      margin: 0;
+      padding: 20px;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background-color: white;
+      padding: 30px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.2);
+      border: 1px solid #ccc;
+    }
+    .header {
+      text-align: center;
+      border-bottom: 2px solid black;
+      margin-bottom: 20px;
+    }
+    .header h1 {
+      font-size: 2.5em;
+      margin: 0;
+    }
+    .header p {
+      margin: 5px;
+      font-size: 0.9em;
+    }
+    .title {
+      font-size: 1.6em;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+    .date {
+      color: #555;
+      font-size: 0.9em;
+      margin-bottom: 20px;
+    }
+    .content {
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Daily Jugabheri</h1>
+      <p>Asia's Regular Bengali Newspaper - First Published: 1930</p>
+      <p>Print Edition: May 5, 2025, 6:30 PM | Online Edition: Sunday, May 5, 2025, 10:52 PM</p>
+    </div>
+    
+    <div class="title">
+      Youth Women League Leader Shakina’s Attackers Remain Unpunished Despite Attempted Murder
+    </div>
+    <div class="date">Location: Sheikhpur village, Golapganj Upazila, Sylhet</div>
+    
+    <div class="content">
+      On a recent evening, a brutal attack and attempted murder were carried out on Youth Women League leader Shakina and her husband, leaving the entire family in shock. In addition to physically assaulting them, the attackers vandalized their home and business establishments and looted their property.
+
+      <br><br>
+
+      According to doctors, Shakina suffered serious injuries. The incident took place in Sheikhpur village of Golapganj Upazila in Sylhet district. 
+
+      <br><br>
+
+      Local sources claim that supporters of the opposition Bangladesh Nationalist Party (BNP) were responsible for the incident. Speaking to reporters, Shakina stated that she is currently undergoing treatment and has already informed the authorities. She strongly urged the government to ensure her safety and demanded immediate justice.
+
+      <br><br>
+
+      Shakina believes that her leadership role and active social engagement may have led to the attack. She called upon the administration to bring the perpetrators to justice and take firm steps to ensure her security.
+
+      <br><br>
+
+      <strong>Reporter’s Note:</strong> Shakina is a prominent leader of the Bangladesh Youth Women League and a resident of Sheikhpur village, Golapganj Upazila, Sylhet.
+    </div>
+  </div>
+</body>
+</html>
